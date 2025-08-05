@@ -1,6 +1,6 @@
 # ruff.toml
 line-length = 88
-target-version = "py312"  # Adjust to your Python version
+target-version = "py312" 
 
 [lint]
 # Enable specific rule sets
