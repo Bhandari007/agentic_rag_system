@@ -1,0 +1,11 @@
+chunking:
+  chunk_size: 512
+  chunk_overlap: 50
+
+embedding:
+  model: "all-MiniLM-L6-v2"
+  dimension: 384
+
+pinecone:
+  environment: "us-east-1"
+  index_name: ""
